@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['galois_5fkeys',['galois_keys',['../classseal_1_1KeyGenerator.html#a569b328657e27770b28dbd0369380f07',1,'seal::KeyGenerator::galois_keys(const std::vector&lt; std::uint64_t &gt; &amp;galois_elts)'],['../classseal_1_1KeyGenerator.html#a6e8decab0bf36d5b2db34cb0d62f2894',1,'seal::KeyGenerator::galois_keys(const std::vector&lt; int &gt; &amp;steps)'],['../classseal_1_1KeyGenerator.html#a3802a78094f6b5c25b4b6930a1ad3a1a',1,'seal::KeyGenerator::galois_keys()']]],
+  ['galoiskeys',['GaloisKeys',['../classseal_1_1GaloisKeys.html',1,'seal']]],
+  ['generate',['generate',['../classseal_1_1UniformRandomGenerator.html#a7b74eaa2a06aad95a13d45d832ea75dd',1,'seal::UniformRandomGenerator::generate()'],['../classseal_1_1StandardRandomAdapter.html#ac9daa21c7e06fd951b05b323f671aa92',1,'seal::StandardRandomAdapter::generate()']]],
+  ['generator',['generator',['../classseal_1_1StandardRandomAdapter.html#a7035d6583e34ad88b4e2b6219eebbfbf',1,'seal::StandardRandomAdapter::generator() const noexcept'],['../classseal_1_1StandardRandomAdapter.html#a384edef1a7cbd5c44a0a0d7bf39f7df0',1,'seal::StandardRandomAdapter::generator() noexcept'],['../classseal_1_1RandomToStandardAdapter.html#a3f51295c0d64914354a98bbd6d3bcf1b',1,'seal::RandomToStandardAdapter::generator()']]],
+  ['get_5fcontext_5fdata',['get_context_data',['../classseal_1_1SEALContext.html#a0ca68bed8a118ea92cc28a535bc496d4',1,'seal::SEALContext']]],
+  ['get_5findex',['get_index',['../classseal_1_1GaloisKeys.html#a032d58b851388de2a720db072c7d0cb3',1,'seal::GaloisKeys::get_index()'],['../classseal_1_1RelinKeys.html#a609a9be8b4bc1480affda72580cd94dc',1,'seal::RelinKeys::get_index()']]],
+  ['get_5fpool',['get_pool',['../classseal_1_1MMProf.html#afb1c4d83f66c5575dfdfc80b367f0604',1,'seal::MMProf::get_pool()'],['../classseal_1_1MMProfGlobal.html#a1fc4fdba8e34e8e00a89111627a24451',1,'seal::MMProfGlobal::get_pool()'],['../classseal_1_1MMProfNew.html#a6440ac25db64bb5827652b641d286c00',1,'seal::MMProfNew::get_pool()'],['../classseal_1_1MMProfFixed.html#adb07f45b45b08daf691f4307bb903660',1,'seal::MMProfFixed::get_pool()'],['../classseal_1_1MMProfThreadLocal.html#afbd738081f247f35c78438bc77afe184',1,'seal::MMProfThreadLocal::get_pool()']]],
+  ['getpool',['GetPool',['../classseal_1_1MemoryManager.html#a15a7acfaa035f60df37b73e6f55d0937',1,'seal::MemoryManager']]],
+  ['global',['Global',['../classseal_1_1MemoryPoolHandle.html#adf5770e785626129e9b1105d80c64366',1,'seal::MemoryPoolHandle']]]
+];

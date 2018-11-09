@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['base_5fconverter',['base_converter',['../classseal_1_1SEALContext_1_1ContextData.html#aa096e5e020a1908287352378f2d8a20e',1,'seal::SEALContext::ContextData']]],
+  ['batchencoder',['BatchEncoder',['../classseal_1_1BatchEncoder.html#af9a39f358049a59417d67559bddac679',1,'seal::BatchEncoder']]],
+  ['begin',['begin',['../classseal_1_1IntArray.html#a13b9b35dd86e97994ac981e6b01752fe',1,'seal::IntArray']]],
+  ['biguint',['BigUInt',['../classseal_1_1BigUInt.html#a85d0e138f370613febf1eae4088b7442',1,'seal::BigUInt::BigUInt()=default'],['../classseal_1_1BigUInt.html#ab0b42f635e3b314e31077faf1ee3ad89',1,'seal::BigUInt::BigUInt(int bit_count)'],['../classseal_1_1BigUInt.html#aae77a8e517f75a227079158a50336ad7',1,'seal::BigUInt::BigUInt(const std::string &amp;hex_value)'],['../classseal_1_1BigUInt.html#a4246d91848630502594a7ec4d92ee67d',1,'seal::BigUInt::BigUInt(int bit_count, const std::string &amp;hex_value)'],['../classseal_1_1BigUInt.html#a2ca2a509a75eb85ae6f2743551ecf1e9',1,'seal::BigUInt::BigUInt(int bit_count, std::uint64_t *value)'],['../classseal_1_1BigUInt.html#afd148359affe48b0a41f678a06106b8d',1,'seal::BigUInt::BigUInt(int bit_count, std::uint64_t value)'],['../classseal_1_1BigUInt.html#ac4d9b14b039cd81c1f11ee0242df99eb',1,'seal::BigUInt::BigUInt(const BigUInt &amp;copy)'],['../classseal_1_1BigUInt.html#a301c2ecab45f3ec3c36cfa63dfdd0b77',1,'seal::BigUInt::BigUInt(BigUInt &amp;&amp;source) noexcept']]],
+  ['bit_5fcount',['bit_count',['../classseal_1_1BigUInt.html#a92c2070f43d2c815d4d4e663bb9e2dbe',1,'seal::BigUInt::bit_count()'],['../classseal_1_1SmallModulus.html#a148be100cc11b70712ebcd447af7401f',1,'seal::SmallModulus::bit_count()']]],
+  ['byte_5fcount',['byte_count',['../classseal_1_1BigUInt.html#a25896f334d133d8d6868cf4355a4e356',1,'seal::BigUInt']]]
+];
